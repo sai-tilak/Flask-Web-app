@@ -1,2 +1,3 @@
 # Flask-Web-app
-web application using flask, and front end
+Backend project
+web application using flask, and Frontend html templates.
